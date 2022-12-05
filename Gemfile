@@ -39,3 +39,5 @@ gem 'puma'
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+
+gem "pgsync", "~> 0.7.3"
