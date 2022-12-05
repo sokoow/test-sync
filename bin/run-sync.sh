@@ -2,6 +2,6 @@
 set -eo pipefail
 set -x
 
-apt-get install -y --no-install-recommends ruby
-gem install pgsync
+sudo apt-get install -y --no-install-recommends ruby
+sudo gem install pgsync
 
